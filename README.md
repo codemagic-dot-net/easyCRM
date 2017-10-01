@@ -5,5 +5,5 @@ a very small web-CRM/ERP and document management system with employee and custom
 
 Still to do:
 - protect against SQL Injection e.g. support contact formular
-- reload page inserts twice registers twice and uploads twice
+- reload page inserts twice, registers twice, and uploads twice
 - printable delivery notes and invoices
