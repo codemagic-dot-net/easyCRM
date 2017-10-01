@@ -1,0 +1,2 @@
+- protect against SQL Injection e.g. support contact formular
+- reload page inserts twice registers twice and uploads twice
